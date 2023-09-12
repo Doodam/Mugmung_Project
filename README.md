@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://github.com/Doodam/Mugmung_Project/assets/121950964/b3937737-1536-47ea-ad4a-ab8ace198062 width="300" height="150"/>
+<img src=https://github.com/Doodam/FruityVeggies_Project/assets/121950964/45bc8987-8123-4b2d-8f18-e56ffd8d6544 width="300" height="150"/>
 <h2>[2023] 머그멍 🍊</h2>
 팀 프로젝트로, 제주도 맛집 정보를 볼 수 있는 홈페이지 입니다. <br>
 머그멍이란? <br>
