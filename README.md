@@ -15,10 +15,10 @@
 <br>
 
 ## 개요
-- 프로젝트 이름 : 제주도 맛집 정보 홈페이지
+- 프로젝트 이름 : 머그멍
 - 프로젝트 지속기간 : 2023.05.26 - 2023.06.23
-- 개발 엔진 및 언어 : Eclipse & JAVA 
-- 개발 환경 : JDK & IDE & Apache Tomcat & Spring Framework & Oracle & HTML / CSS / Java Script
+- 개발 엔진 및 언어 : Eclipse & JAVA(JDK 17) 
+- 개발 환경 : Spring Framework & Apache Tomcat & Oracle & HTML / CSS / Java Script
 
 <br>
 
